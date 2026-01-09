@@ -1,0 +1,8 @@
+{
+    "accessibility.signals.chatEditModifiedFile": {
+        "sound": "off"
+    }
+    ,
+    "audioCues.enabled": "off",
+    "terminal.integrated.enableBell": false
+}
